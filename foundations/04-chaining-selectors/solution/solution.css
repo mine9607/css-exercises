@@ -3,7 +3,7 @@
   width: 300px;
 }
 
-.avatar.distorted {
-  height: 400px;
-  width: 200px;
+.original.distorted {
+  height: 200px;
+  width: auto;
 }
